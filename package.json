@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "The template repository for the Common Continuous Integration Team Scenarios  course on Learning Lab.",
   "main": "ci.test.js",
-  "dependencies": {},
   "devDependencies": {
     "jest": "^26.1.0"
   },
